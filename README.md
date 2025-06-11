@@ -44,5 +44,5 @@ This project is open for academic or personal use. No commercial rights reserved
 
 ### Author
 
-- Name: Tarun Arora
+- Name: Rahul Dhanda
 - GitHub: https://github.com/Rahuldhanda001
